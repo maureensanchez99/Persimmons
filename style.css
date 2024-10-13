@@ -15,6 +15,10 @@ body {
   color: #433A3F;
 }
 
+.nav-bar {
+  background-color: antiquewhite;
+}
+
 h1 {
   font-family: 'Rye', cursive;
   font-size: 50px;
