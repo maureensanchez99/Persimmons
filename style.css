@@ -6,6 +6,12 @@ Color pallette::
   #deb887 -> burlywood (light brown)
 */
 
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
 body {
   font-family: 'Work Sans', sans-serif;
   text-align: center;
@@ -17,6 +23,7 @@ body {
 
 .nav-bar {
   background-color: antiquewhite;
+  padding: 0;
 }
 
 h1 {
