@@ -15,7 +15,7 @@ Color pallette::
 body {
   font-family: 'Work Sans', sans-serif;
   text-align: center;
-  /*align-content: center;*/
+  align-content: center;
 
   background-color: #deb887;
   color: #433A3F;
@@ -58,8 +58,8 @@ a {
 }
 
 .footer-img {
-  width: 1px;
-  height: 1px;
+  width: 100px;
+  height: auto;
 
   position: absolute;
   bottom: 10px;
